@@ -9,7 +9,6 @@ Aspiring security analyst with 3 years of IT experience in technical support, ne
 I have developed a strong passion for cybersecurity and am eager to transition into the field, with a goal of starting my career in a Security Operations Center (SOC) as a Tier 1 Analyst. I aim to apply my technical foundation and contribute to detecting, analyzing, and responding to security threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ I have developed a strong passion for cybersecurity and am eager to transition i
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
